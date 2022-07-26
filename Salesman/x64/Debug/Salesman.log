@@ -1,0 +1,5 @@
+﻿  BranchAndBound.cpp
+n:\ada\salesmanbranchandbound\salesman\branchandbound.cpp(117): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+n:\ada\salesmanbranchandbound\salesman\branchandbound.cpp(331): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+n:\ada\salesmanbranchandbound\salesman\branchandbound.cpp(335): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Salesman.vcxproj -> N:\ADA\SalesmanBranchAndBound\x64\Debug\Salesman.exe
